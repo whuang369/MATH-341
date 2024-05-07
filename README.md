@@ -10,3 +10,5 @@ Professor: Sergey Denisov
 Term: Spring 2024
 
 Section: Accelerated honors
+
+Textbook Used (for both lecture and homework): Linear Algebra (Stephen H. Friedberg, Arnold J. Insel etc.)
